@@ -8,3 +8,4 @@ this file 5-listfilesdigionly Display current directory contents in a long forma
 this file  7-movethatfile  Move the file betty from /tmp/ to /tmp/my_first_directory. 
 this file  8-firstdelete  remove the file betty . 
 this file  9-firstdirdeletion  remove mu firt directory . 
+this file  10-back  changes the working directory to the previous one . 
