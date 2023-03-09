@@ -8,3 +8,4 @@ this file 6-multiple_permessions adds execute permission to the owner and the gr
 this file 7-everybody  adds execution permission to the owner, the group owner and the other users, to the file hello
 this file 8-James_Bond sets the permission to the file hello as follows:
 this file 8-James_Bond sets the permission to the file hello as follows:Owner: no permission at all, Group: no permission at all,Other users: all the permissions
+this file 9-Jon8Doe sets the mode of file to rwxr-x-wx 
