@@ -13,3 +13,5 @@ this file 10-mirror_permissions sets the mode of the file hello the same as olle
 this file  11- idrect...execute permission to all subdirectories of the current directory for the owner, the group owner and all other users 
 this file  11- idrect execute permission to all subdirectories of the current directory for the owner, the group owner and all other users 
 this file  11- idrect execute permission to all subdirectories of the current directory for the owner, the group owner and all other users 
+this file  12-directory_permission  creates a directory called my_dir with permissions 751 in the working directory. 
+this file  13-change_group changes the group owner to school for the file hello
