@@ -7,3 +7,4 @@ this file 4-listmorefiles Display current directory contents in a long format  i
 this file 5-listfilesdigionly Display current directory contents in a long format  including hidden files with groups and ID 
 this file  7-movethatfile  Move the file betty from /tmp/ to /tmp/my_first_directory. 
 this file  8-firstdelete  remove the file betty . 
+this file  9-firstdirdeletion  remove mu firt directory . 
